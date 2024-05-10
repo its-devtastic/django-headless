@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-14 16:26+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: headless/auth/api_token/models.py:19 headless/auth/api_token/models.py:92
+msgid "Token"
+msgstr "Sleutel"
+
+#: headless/auth/api_token/models.py:23
+msgid "Description"
+msgstr "Omschrijving"
+
+#: headless/auth/api_token/models.py:27
+msgid "Last used"
+msgstr "Laatst gebruikt"
+
+#: headless/auth/api_token/models.py:30
+msgid "Read-only"
+msgstr "Alleen-lezen"
+
+#: headless/auth/api_token/models.py:32
+msgid "Full access"
+msgstr "Volledige toegang"
+
+#: headless/auth/api_token/models.py:35
+msgid "Permissions"
+msgstr "Permissies"
+
+#: headless/auth/api_token/models.py:38
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: headless/auth/api_token/models.py:75 headless/auth/api_token/models.py:76
+msgid "API Token Usage"
+msgstr "API-sleutelgebruik"
+
+#: headless/auth/api_token/models.py:79
+msgid "Timestamp"
+msgstr "Tijdstip"
+
+#: headless/auth/api_token/models.py:81
+msgid "Method"
+msgstr "Methode"
+
+#: headless/auth/api_token/models.py:83
+msgid "Path"
+msgstr "Pad"
+
+#: headless/auth/api_token/models.py:86
+msgid "Query parameters"
+msgstr "Query-parameters"
+
+#: headless/media_library/models.py:30 headless/media_library/models.py:31
+msgid "Media"
+msgstr "Media"
+
+#: headless/media_library/models.py:33 headless/media_library/models.py:68
+msgid "File"
+msgstr "Bestand"
+
+#: headless/media_library/models.py:36 headless/media_library/models.py:101
+msgid "Name"
+msgstr "Naam"
+
+#: headless/media_library/models.py:43
+msgid "Alt tekst"
+msgstr "Alt-tekst"
+
+#: headless/media_library/models.py:44
+msgid "Describes a picture for screen readers"
+msgstr "Beschrijft een afbeelding voor SEO en schermlezers."
+
+#: headless/media_library/models.py:47
+msgid "Tags"
+msgstr "Labels"
+
+#: headless/media_library/models.py:54 headless/media_library/models.py:96
+msgid "Folder"
+msgstr "Map"
+
+#: headless/media_library/models.py:57
+msgid "Crop"
+msgstr "Uitsnede"
+
+#: headless/media_library/models.py:60
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+#: headless/media_library/models.py:65
+msgid "Image"
+msgstr "Afbeelding"
+
+#: headless/media_library/models.py:66
+msgid "Video"
+msgstr "Video"
+
+#: headless/media_library/models.py:67
+msgid "Audio"
+msgstr "Audio"
+
+#: headless/media_library/models.py:71
+msgid "File type"
+msgstr "Bestandstype"
+
+#: headless/media_library/models.py:97
+msgid "Folders"
+msgstr "Mappen"
+
+#: headless/models.py:28
+msgid "Created at"
+msgstr "Aangemaakt op"
+
+#: headless/models.py:30
+msgid "Modified at"
+msgstr "Gewijzigd op"
+
+#: headless/models.py:43
+msgid "Edited by"
+msgstr "Bewerkt door"
+
+#: headless/models.py:53
+msgid "Order key"
+msgstr "Volgordesleutel"
+
+#: headless/models.py:73
+msgid "Removed at"
+msgstr "Verwijderd op"
+
+#: headless/user/admin.py:39
+msgid "name"
+msgstr "Naam"
+
+#: headless/user/models.py:21
+msgid "User"
+msgstr "Gebruiker"
+
+#: headless/user/models.py:22
+msgid "Users"
+msgstr "Gebruikers"
+
+#: headless/user/models.py:27
+msgid "Email"
+msgstr "E-mail"
+
+#: headless/user/models.py:33
+msgid "Profile picture"
+msgstr "Profielafbeelding"
+
+#: headless/user/models.py:40
+msgid "Locale"
+msgstr "Landinstellingen"
+
+#: headless/user/models.py:47
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: headless/validators.py:10
+msgid "Enter a valid value."
+msgstr "Voer een geldige waarde in."
+
+#~ msgid "Crops"
+#~ msgstr "Uitsneden"
+
+#~ msgid "Template"
+#~ msgstr "Sjabloon"
+
+#~ msgid "Selection"
+#~ msgstr "Selectie"
+
+#, fuzzy
+#~| msgid "Media"
+#~ msgid "Media item"
+#~ msgstr "Media"
